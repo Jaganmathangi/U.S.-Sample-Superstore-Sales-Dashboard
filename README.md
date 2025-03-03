@@ -18,8 +18,6 @@ __🎯 Key Learnings & Skills Applied:__
 This project showcases my ability to analyze, interpret, and visualize business data effectively. Excited to explore more advanced features and build deeper insights! 🚀
 
 
-The interactive dashboard can be accessed here.
-
 <a href="https://public.tableau.com/views/Book2_17402806629380/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
     View the Interactive Dashboard
 </a>
