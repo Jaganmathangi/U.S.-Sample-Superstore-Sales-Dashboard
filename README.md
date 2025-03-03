@@ -6,7 +6,7 @@ __🔹 Key Features:__
 - __Sales Breakdown:__ Revenue analysis by Category, Segment, and Ship Mode.
 - __Regional Performance:__ Sales trends across different regions to identify growth opportunities.
 - __Top Customers:__ Insights into the top 5 customers based on sales contributions.
-- __Customer Base Distribution:__ A geographical representation of sales distribution.
+- __Customer Base Distribution:__ A geographical distribution of customers based on sales.
 
 __🎯 Key Learnings & Skills Applied:__
 - Designed an interactive dashboard to present complex data clearly.
@@ -16,3 +16,6 @@ __🎯 Key Learnings & Skills Applied:__
 
 
 This project showcases my ability to analyze, interpret, and visualize business data effectively. Excited to explore more advanced features and build deeper insights! 🚀
+
+
+The interactive dashboard can be accessed here.
